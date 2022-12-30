@@ -1,2 +1,16 @@
-# flappy-bird
-Create flappy bird clone game
+# flappy-bird Clone Game
+Make a flappy bird game while watching a YouTube lecture
+
+유니티(Unity) 게임 엔진을 활용하여 수익형 플래피버드(Flappy Bird) 클론 게임을 만드는 2022 버전의 강의를 보며 게임 개발에 대한 전반적인 개요 알아보기
+[![Video Label](http://img.youtube.com/vi/EqoU1PodQQ4&list=PLU9-uwewPMe0JVpshM9dhpJEOII4_dl1N/0.jpg)](https://youtu.be/EqoU1PodQQ4&list=PLU9-uwewPMe0JVpshM9dhpJEOII4_dl1N)
+  
+    
+<br/>  
+<br/>
+
+**강의 시청 기록**  
+|날짜|시간|공부 내용|
+|---|---|---|
+|20221228|0~27:54|- unity 설치 및 세팅<br/>- 배경 이미지 오브젝트 추가, 게임 화면 비율 조정<br/>- 애니메이션 추가<br/>- 게임 실행 및 order in layer 설정<br/>- 땅 오브젝트 추가 및 애니메이션 생성|
+|20221229|~58:20|- 중력 추가 Rigidbody 2D, 물리 경계 추가 Collider 2D<br/>- 점프 기능 추가<br/> - 스크립트 추가<br/>- vscode 개발 환경 세팅<br/>- 점프 기능 구현<br/>- 점프 강도 조절|
+|20221230|~2:15:54|54|

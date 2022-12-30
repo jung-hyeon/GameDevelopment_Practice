@@ -2,7 +2,7 @@
 Make a flappy bird game while watching a YouTube lecture
 
 유니티(Unity) 게임 엔진을 활용하여 수익형 플래피버드(Flappy Bird) 클론 게임을 만드는 2022 버전의 강의를 보며 게임 개발에 대한 전반적인 개요 알아보기
-[![Video Label](http://img.youtube.com/vi/EqoU1PodQQ4&list=PLU9-uwewPMe0JVpshM9dhpJEOII4_dl1N/0.jpg)](https://youtu.be/EqoU1PodQQ4&list=PLU9-uwewPMe0JVpshM9dhpJEOII4_dl1N)
+[![Video Label](http://img.youtube.com/vi/EqoU1PodQQ4&list/0.jpg)](https://youtu.be/EqoU1PodQQ4&list)
   
     
 <br/>  

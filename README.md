@@ -19,4 +19,4 @@
 <br/>
 
 **강의 내용 정리**  
-[👉클릭👈](https://www.notion.so/2ae11e3ee2ed44d4b4db9bef39ecf86c)
+[👉클릭👈](https://early-babcat-f2a.notion.site/2ae11e3ee2ed44d4b4db9bef39ecf86c)

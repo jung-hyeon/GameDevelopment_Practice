@@ -43,7 +43,7 @@ public class Player : MonoBehaviour
     private void Move()
     {
         moveVec = new Vector3(hAxis, 0, vAxis).normalized; //normalized쓰면 대각선으로 이동해도 벡터 값이 1로 보장
-        // 벽은 fixedupdate이기 때문에 update문에 있는 transform이동이 무시되는 상황 발생 가능 => player의 rigidbody-collision detecion을 continuous로 변경
+        // 벽은 fixedupdate이기 때문에 update문에 있는 transform이동이 무시되는 상황 발생 가능 => player의 rigidbody-collision detecion을 continuous로 변경 & WorldSpace를 static으로 변경
 
         transform.position += moveVec * speed * (wDown ? 0.3f : 1f) * Time.deltaTime;
 
@@ -60,7 +60,7 @@ public class Player : MonoBehaviour
     {
         if(jDown && !isJump)
         {
-            rigid.AddForce(Vector3.up * 30, ForceMode.Impulse);
+            rigid.AddForce(Vector3.up * 20, ForceMode.Impulse);
             anim.SetBool("isJump", true);
             anim.SetTrigger("doJump");
             isJump = true;

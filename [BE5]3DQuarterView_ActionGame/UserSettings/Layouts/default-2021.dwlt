@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 21
+  controlID: 127
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 15857
+  controlID: 84
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 15858
+  controlID: 85
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -410,22 +410,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/QuarterView 3D Action BE5/Models
+    - Assets/02.Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/QuarterView 3D Action BE5/Models
+  - Assets/02.Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\GitHub_Project\GameDevelopment_Practice\3DQuarterView_ActionGame\[BE5]3DQuarterView_ActionGame
+  m_LastProjectPath: D:\GitHub_Project\GameDevelopment_Practice\[BE5]3DQuarterView_ActionGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 38.200012}
-    m_SelectedIDs: f4570000
-    m_LastClickedID: 22516
-    m_ExpandedIDs: 00000000e0570000e8570000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 1a5a0000
+    m_LastClickedID: 23066
+    m_ExpandedIDs: 00000000065a0000085a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -453,7 +453,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e0570000
+    m_ExpandedIDs: 00000000065a0000085a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -505,7 +505,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 150.20001}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -583,9 +583,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7cf9ffff
-      m_LastClickedID: -1668
-      m_ExpandedIDs: 2449feff4c9bfeff64eafeffc674ffffd2d3ffffdad3ffffded3ffff12d4ffff16d4ffff1ad4ffff36fbffff
+      m_SelectedIDs: 80090000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 36fbffffe4570000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -868,9 +868,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.46566343, y: 2.7484148, z: 1.7470169}
+    m_Target: {x: -1.5977082, y: 3.000402, z: -0.009366035}
     speed: 2
-    m_Value: {x: 0.46566343, y: 2.7484148, z: 1.7470169}
+    m_Value: {x: -1.5977082, y: 3.000402, z: -0.009366035}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -917,13 +917,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.002560653, y: 0.99637395, z: -0.031702947, w: -0.07967237}
+    m_Target: {x: -0.0010922685, y: 0.99583673, z: 0.011639725, w: 0.09107945}
     speed: 2
-    m_Value: {x: -0.002560499, y: 0.996314, z: -0.03170104, w: -0.07966757}
+    m_Value: {x: -0.0012287777, y: 0.995757, z: 0.013132663, w: 0.09107213}
   m_Size:
-    m_Target: 7.2835417
+    m_Target: 7.0161643
     speed: 2
-    m_Value: 7.2835417
+    m_Value: 7.346769
   m_Ortho:
     m_Target: 0
     speed: 2

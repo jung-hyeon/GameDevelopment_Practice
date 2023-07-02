@@ -346,9 +346,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/02.Scripts/Follow.cs"
+"Assets/02.Scripts/Item.cs"
+"Assets/02.Scripts/Player.cs"
 "Assets/QuarterView 3D Action BE5/ReadMe/Scripts/ReadmeBE5.cs"
-"Assets/Scripts/Follow.cs"
-"Assets/Scripts/Player.cs"
 -langversion:9.0
 
 /deterministic

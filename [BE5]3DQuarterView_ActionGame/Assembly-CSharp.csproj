@@ -60,6 +60,7 @@
     <Compile Include="Assets\02.Scripts\Item.cs" />
     <Compile Include="Assets\02.Scripts\Player.cs" />
     <Compile Include="Assets\QuarterView 3D Action BE5\ReadMe\Scripts\ReadmeBE5.cs" />
+    <Compile Include="Assets\02.Scripts\Orbit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

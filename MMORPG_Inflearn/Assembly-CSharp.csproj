@@ -56,31 +56,24 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\ThirdPersonCamera.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\SplashScreen\Scripts\SplashScreen.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\IKCtrlRightHand.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\RandomWind.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\UnityChanControlScriptWithRgidBody.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\SpringCollider.cs" />
-    <Compile Include="Assets\unity-chan!\Unity-chan! Model\Scripts\IdleChanger.cs" />
+    <Compile Include="Assets\Scripts\Managers\Managers.cs" />
+    <Compile Include="Assets\Scripts\Managers\InputManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Managers\ResourceManager.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\Stage\Shader\AlphaMask.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
-    <None Include="Assets\unity-chan!\Unity-chan! Model\Art\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\Sounds\unity-chan_voice_list.txt" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\Stage\Shader\AlphaMask.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
+    <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

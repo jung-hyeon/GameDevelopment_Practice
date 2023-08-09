@@ -15,7 +15,7 @@ D:/GitHub_Project/GameDevelopment_Practice/[BE5]3DQuarterView_ActionGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-8381
+9138
 Successfully changed project path to: D:/GitHub_Project/GameDevelopment_Practice/[BE5]3DQuarterView_ActionGame
 D:/GitHub_Project/GameDevelopment_Practice/[BE5]3DQuarterView_ActionGame
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ D:/GitHub_Project/GameDevelopment_Practice/[BE5]3DQuarterView_ActionGame
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [28180] Host "[IP] 192.168.92.1 [Port] 0 [Flags] 2 [Guid] 1270878154 [EditorId] 1270878154 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-M346JP4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [11012] Host "[IP] 192.168.92.1 [Port] 0 [Flags] 2 [Guid] 4060263859 [EditorId] 4060263859 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-M346JP4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [28180] Host "[IP] 192.168.92.1 [Port] 0 [Flags] 2 [Guid] 1270878154 [EditorId] 1270878154 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-M346JP4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [11012] Host "[IP] 192.168.92.1 [Port] 0 [Flags] 2 [Guid] 4060263859 [EditorId] 4060263859 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-M346JP4) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 113.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 116.60 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.26f1 (a16dc32e0ff2)
 [Subsystems] Discovering subsystems at path D:/Unity_Editor/2021.3.26f1/Editor/Data/Resources/UnitySubsystems
@@ -67,75 +67,75 @@ Initialize mono
 Mono path[0] = 'D:/Unity_Editor/2021.3.26f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Unity_Editor/2021.3.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Unity_Editor/2021.3.26f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Unity_Editor/2021.3.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002425 seconds.
+Registered in 0.002424 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 104.74 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 96.12 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.924 seconds
+- Completed reload, in  0.837 seconds
 Domain Reload Profiling:
-	ReloadAssembly (924ms)
-		BeginReloadAssembly (137ms)
+	ReloadAssembly (837ms)
+		BeginReloadAssembly (138ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (654ms)
-			LoadAssemblies (137ms)
+		EndReloadAssembly (581ms)
+			LoadAssemblies (136ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (164ms)
+			SetupTypeCache (141ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (377ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (337ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (105ms)
+				RefreshPlugins (96ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (188ms)
-				ProcessInitializeOnLoadMethodAttributes (73ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (67ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005281 seconds.
+Registered in 0.021532 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\GitHub_Project\GameDevelopment_Practice\[BE5]3DQuarterView_ActionGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\GitHub_Project\GameDevelopment_Practice\[BE5]3DQuarterView_ActionGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.431 seconds
+- Completed reload, in  1.354 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1432ms)
-		BeginReloadAssembly (197ms)
+	ReloadAssembly (1355ms)
+		BeginReloadAssembly (172ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (1098ms)
-			LoadAssemblies (145ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1039ms)
+			LoadAssemblies (188ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (398ms)
+			SetupTypeCache (364ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (72ms)
-			SetupLoadedEditorAssemblies (462ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (406ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (8ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (322ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (283ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -143,13 +143,13 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3095 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 22 unused Assets / (56.1 KB). Loaded Objects now: 3558.
 Memory consumption went from 113.5 MB to 113.5 MB.
-Total: 4.241500 ms (FindLiveObjects: 0.405900 ms CreateObjectMapping: 0.396700 ms MarkObjects: 3.324200 ms  DeleteObjects: 0.113500 ms)
+Total: 3.655300 ms (FindLiveObjects: 0.284500 ms CreateObjectMapping: 0.462800 ms MarkObjects: 2.789800 ms  DeleteObjects: 0.117300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,303 +163,37 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 91423.546701 seconds.
-  path: Assets/03.Animation/Player.controller
-  artifactKey: Guid(38e645147c712f04fba98cd4d25dd48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/03.Animation/Player.controller using Guid(38e645147c712f04fba98cd4d25dd48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5959d3f6300d5a30e6b885db52353a5') in 0.057888 seconds 
+  Time since last request: 368726.482440 seconds.
+  path: Assets/QuarterView 3D Action BE5/Prefabs/Player.prefab
+  artifactKey: Guid(8f5e135a19626f544908fc8f156144b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Prefabs/Player.prefab using Guid(8f5e135a19626f544908fc8f156144b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976ae42e47f4d75efa8a186d4c42b147') in 0.172983 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 59.760529 seconds.
-  path: Assets/QuarterView 3D Action BE5/Demo/Demo/Ac EnemyA.overrideController
-  artifactKey: Guid(7b3b034a6e099a642990097e756d2555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Demo/Demo/Ac EnemyA.overrideController using Guid(7b3b034a6e099a642990097e756d2555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0538aef81912d2e3bf59b87f7b09929') in 0.025175 seconds 
+  Time since last request: 588.442163 seconds.
+  path: Assets/05 Font
+  artifactKey: Guid(87fbaf97aaeaf87439786e8b05011538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05 Font using Guid(87fbaf97aaeaf87439786e8b05011538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e6027c0270d67e7a4c39a10c0045e9') in 0.004188 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/QuarterView 3D Action BE5/Demo/Demo/ReflectionProbe-0.exr
-  artifactKey: Guid(adfd99a973f4d4f4abff39d5d79b061a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Demo/Demo/ReflectionProbe-0.exr using Guid(adfd99a973f4d4f4abff39d5d79b061a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3690e571a0f74fcc6445f0cf2672a4e') in 0.160762 seconds 
+  Time since last request: 19.781065 seconds.
+  path: Assets/05 Font/CookieRun Bold.otf
+  artifactKey: Guid(2c9fd0338b7ac574486acadebec75395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/05 Font/CookieRun Bold.otf using Guid(2c9fd0338b7ac574486acadebec75395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee4e286dba3b8bf768a9d0290da841e') in 0.081108 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.182648 seconds.
-  path: Assets/QuarterView 3D Action BE5/Demo/Demo/Ac Player.controller
-  artifactKey: Guid(f98c2a62bf9133448ba3607bcdffadb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Demo/Demo/Ac Player.controller using Guid(f98c2a62bf9133448ba3607bcdffadb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4e0c06cfb3862ec6f225e51d4d6a48') in 0.003196 seconds 
+  Time since last request: 9.003066 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aedec9823b7fb023131e38c068c58e17') in 0.181330 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 11.627226 seconds.
-  path: Assets/QuarterView 3D Action BE5/Demo/Demo
-  artifactKey: Guid(335280137d693bd498c9f8f6c35c2c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Demo/Demo using Guid(335280137d693bd498c9f8f6c35c2c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f009ebfc94b46689f7d9ed3fb2b17cb') in 0.002107 seconds 
+  Time since last request: 0.000050 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebaa3ea0cd490664dccc9483c09c7ca') in 0.121869 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.671615 seconds.
-  path: Assets/QuarterView 3D Action BE5/Demo/Demo.unity
-  artifactKey: Guid(53d9a0a0e6815d94dbce121d1a39cb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Demo/Demo.unity using Guid(53d9a0a0e6815d94dbce121d1a39cb61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dbcbd6e96e413d106d756b5b905651') in 0.004531 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004725 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\GitHub_Project\GameDevelopment_Practice\[BE5]3DQuarterView_ActionGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\GitHub_Project\GameDevelopment_Practice\[BE5]3DQuarterView_ActionGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.058 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2059ms)
-		BeginReloadAssembly (230ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (13ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (1671ms)
-			LoadAssemblies (157ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (609ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (110ms)
-			SetupLoadedEditorAssemblies (690ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (11ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (118ms)
-				ProcessInitializeOnLoadAttributes (494ms)
-				ProcessInitializeOnLoadMethodAttributes (58ms)
-				AfterProcessingInitializeOnLoad (6ms)
-				EditorAssembliesLoaded (1ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (20ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 4.18 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3088 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 15 unused Assets / (24.7 KB). Loaded Objects now: 3594.
-Memory consumption went from 117.8 MB to 117.8 MB.
-Total: 4.866500 ms (FindLiveObjects: 0.393700 ms CreateObjectMapping: 0.396300 ms MarkObjects: 4.022700 ms  DeleteObjects: 0.051400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 54.861444 seconds.
-  path: Assets/QuarterView 3D Action BE5/ReadMe/Scripts
-  artifactKey: Guid(d7c7c0d561d23ce48a682e3b5c580352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/ReadMe/Scripts using Guid(d7c7c0d561d23ce48a682e3b5c580352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5992474955f41272aa85353674a5a706') in 0.014378 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.111848 seconds.
-  path: Assets/QuarterView 3D Action BE5/ReadMe/Scripts/Editor
-  artifactKey: Guid(c4d7987126a69574cb730ddd1dba517e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/ReadMe/Scripts/Editor using Guid(c4d7987126a69574cb730ddd1dba517e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f823f9c69cab922610ce8ee11bf5a1') in 0.002116 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.413307 seconds.
-  path: Assets/QuarterView 3D Action BE5/ReadMe/Scripts/Editor/ReadmeEditorBE5.cs
-  artifactKey: Guid(edd620b2f6703734fba22d55dc31ef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/ReadMe/Scripts/Editor/ReadmeEditorBE5.cs using Guid(edd620b2f6703734fba22d55dc31ef25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051edb65d19d06f14d3afeff64de7327') in 0.033441 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.188926 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Guage Back.png
-  artifactKey: Guid(43335735a8cdb1746b5605815e0a96e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Guage Back.png using Guid(43335735a8cdb1746b5605815e0a96e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde915061581e79eb799d44169306ce5') in 0.137379 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Ammo Mini.png
-  artifactKey: Guid(142faba4ceb5fdf4aae7177252aecf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Ammo Mini.png using Guid(142faba4ceb5fdf4aae7177252aecf72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f8e40e95480b453ee1446eaf73fac3') in 0.011395 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Ludo.png
-  artifactKey: Guid(be7633cc187ae604cb9808ff3c897195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Ludo.png using Guid(be7633cc187ae604cb9808ff3c897195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a49499d70b900cb083c1d538abd8c6') in 0.018822 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Boss.png
-  artifactKey: Guid(08df90f463ef0d34dbb1c49eef665daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Boss.png using Guid(08df90f463ef0d34dbb1c49eef665daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cca3a8415534153fc5b5f4da7ff9c8') in 0.025352 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Num4.png
-  artifactKey: Guid(3fa2ed196fd9aaf43a8f4ece48a41f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Num4.png using Guid(3fa2ed196fd9aaf43a8f4ece48a41f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6888f45c85e1e767bd04e9cd57156442') in 0.025101 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Num1.png
-  artifactKey: Guid(202d667d5a7bcf24a842ff4c86dad758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Num1.png using Guid(202d667d5a7bcf24a842ff4c86dad758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d48d7bae969acf7a15149a1793ea49c') in 0.023788 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Panel A.png
-  artifactKey: Guid(e56d2c466aae6dc4b96148e5b2431756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Panel A.png using Guid(e56d2c466aae6dc4b96148e5b2431756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18803e4c42257627fd1b503e8853bf8') in 0.018419 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon NumR.png
-  artifactKey: Guid(42333eca44e9f5c4f945a0f2f5d4f9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon NumR.png using Guid(42333eca44e9f5c4f945a0f2f5d4f9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd53e03855478f036644d8e31461d62a') in 0.021614 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Stage Mini.png
-  artifactKey: Guid(98f841c6ac46d174ca4f358018ab8de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Stage Mini.png using Guid(98f841c6ac46d174ca4f358018ab8de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4109e905103cab0c18490b2c324e77e') in 0.024344 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Panel B.png
-  artifactKey: Guid(9dbac7399ba13ae4caa7872cd0ddf9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Panel B.png using Guid(9dbac7399ba13ae4caa7872cd0ddf9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cafec6ee787980ce7dc5237e68e8d073') in 0.017735 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Heart Mini.png
-  artifactKey: Guid(47fbbf7a9c438ed4ea370ca0e59905ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Heart Mini.png using Guid(47fbbf7a9c438ed4ea370ca0e59905ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c9247574ede267fcf553c7fe01f407') in 0.014975 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000132 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Luna.png
-  artifactKey: Guid(9d986f49ce6cd534192f14632e916df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Luna.png using Guid(9d986f49ce6cd534192f14632e916df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b73c8de8aa47b4680b099d16dd8cd7c') in 0.024428 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Weapon SubMachineGun.png
-  artifactKey: Guid(744566287c3cef64f9b897280e5d9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Weapon SubMachineGun.png using Guid(744566287c3cef64f9b897280e5d9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa73ac7699353b3038014c1a8c04dda0') in 0.019177 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000061 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon NumL.png
-  artifactKey: Guid(9645d9c85921f964db0eabb1de4d11af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon NumL.png using Guid(9645d9c85921f964db0eabb1de4d11af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e190364aaae2e8cfdd1aa18b1d4832') in 0.016948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Close.png
-  artifactKey: Guid(1baaa93f3ec48804397f21b2614604d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Close.png using Guid(1baaa93f3ec48804397f21b2614604d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd14250836c08dc915603c8081786cab') in 0.020067 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Icon Attack.png
-  artifactKey: Guid(d839aa1982367874bac74affe829c2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Icon Attack.png using Guid(d839aa1982367874bac74affe829c2e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84ebfb5ed2ff1c8f19ef7f9d23a0b3fc') in 0.014342 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/QuarterView 3D Action BE5/Sprites/Title.png
-  artifactKey: Guid(30d34a086fddb334cabc51ff314daf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Sprites/Title.png using Guid(30d34a086fddb334cabc51ff314daf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c81cbee61ef3260502edba7d758f586') in 0.030350 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.046926 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/_Pattern.png
-  artifactKey: Guid(dd3fb6baae3a2b14f9a23ec6ed2db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/_Pattern.png using Guid(dd3fb6baae3a2b14f9a23ec6ed2db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca0295fb77d7e7ff093552f5c7bbfe9') in 0.050857 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Coin Gold.png
-  artifactKey: Guid(843ec11e575c45148be9468dd4e00a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Coin Gold.png using Guid(843ec11e575c45148be9468dd4e00a8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b23741a30c2996be6d9bbe5557bcecca') in 0.020318 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Bullet Case.png
-  artifactKey: Guid(0cc401fda21a95849bb017f17d80bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Bullet Case.png using Guid(0cc401fda21a95849bb017f17d80bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9745da693104507ce55981402cac0842') in 0.013316 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Missile.png
-  artifactKey: Guid(f2039ced9adf3b844830933387dadd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Missile.png using Guid(f2039ced9adf3b844830933387dadd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa173f0a00e009bb0c6274ec7773f88') in 0.012108 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Enemy D.png
-  artifactKey: Guid(796c54f343685b142a9adde64cf8696e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Enemy D.png using Guid(796c54f343685b142a9adde64cf8696e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb4270bf1b973d5fc45bd99945315e6') in 0.017567 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Weapon SubMachineGun.png
-  artifactKey: Guid(dd497d77238423c44afe2e4ecda4039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Weapon SubMachineGun.png using Guid(dd497d77238423c44afe2e4ecda4039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6638514af716b7e278dc7d392fa5579b') in 0.011833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Wapon Hammer.png
-  artifactKey: Guid(051f2ad9bc946e04fa39d743ab1b38e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Wapon Hammer.png using Guid(051f2ad9bc946e04fa39d743ab1b38e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9354279cbb56a4a7db3f6d1fa7f2d3aa') in 0.011217 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Ludo.png
-  artifactKey: Guid(6b7da79ebbb98c44fbcaeca8e457a966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Ludo.png using Guid(6b7da79ebbb98c44fbcaeca8e457a966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55fad836645d96f3cb773c4aa1505337') in 0.008882 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Player.png
-  artifactKey: Guid(944377592ab6e2a41ace5352861ff84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Player.png using Guid(944377592ab6e2a41ace5352861ff84c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9265afedd37d91f50000c51e0f29c2ab') in 0.008910 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Enemy C.png
-  artifactKey: Guid(efb1c84380e704f44aaf0a19777c0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Enemy C.png using Guid(efb1c84380e704f44aaf0a19777c0663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c51691dd5eb961778199903bb2ef724') in 0.014849 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/QuarterView 3D Action BE5/Textures/Coin Silver.png
-  artifactKey: Guid(4d326d723433e364a84a0db839113fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/QuarterView 3D Action BE5/Textures/Coin Silver.png using Guid(4d326d723433e364a84a0db839113fe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100c0dab8464e25d708a3c9f5f7cfea0') in 0.019112 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 66.705828 seconds.
-  path: Assets/00.Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/00.Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4014a578a91b3840117143163c53902') in 0.002453 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 47.815648 seconds.
-  path: Assets/00.Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/00.Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a70db9363d915cd2cb22cfa58160cb') in 0.002809 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 68.708749 seconds.
-  path: Assets/02.Scripts/Item.cs
-  artifactKey: Guid(8beaad5d90b32c648b7c1a308f5d2121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/02.Scripts/Item.cs using Guid(8beaad5d90b32c648b7c1a308f5d2121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d44c11ad15e2d3fb9735312eacc8bd') in 0.002672 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.685955 seconds.
-  path: Assets/02.Scripts/Player.cs
-  artifactKey: Guid(1992eeeb0deaa3f48a1283b8b9f600dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/02.Scripts/Player.cs using Guid(1992eeeb0deaa3f48a1283b8b9f600dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ad9ff3923a007635d2cae3739d4053') in 0.001963 seconds 
+  Time since last request: 0.000038 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bac395e5cee87070beddf73267113c4f') in 0.151771 seconds 

@@ -42,17 +42,17 @@ public class PlayerController : MonoBehaviour
 
         // World -> Local
         // transform.InverseTransformDirection
-        /* 
-        if(Input.GetKey(KeyCode.W))
+
+        if (Input.GetKey(KeyCode.W))
             transform.position += transform.TransformDirection(Vector3.forward * Time.deltaTime * _speed);
-            // 같은 의미 transform.Translate(Vector3.back * Time.deltaTime * _speed);
-        if(Input.GetKey(KeyCode.S))
+        // 같은 의미 transform.Translate(Vector3.back * Time.deltaTime * _speed);
+        if (Input.GetKey(KeyCode.S))
             transform.position += transform.TransformDirection(Vector3.back * Time.deltaTime * _speed);
-        if(Input.GetKey(KeyCode.A))
+        if (Input.GetKey(KeyCode.A))
             transform.position += transform.TransformDirection(Vector3.left * Time.deltaTime * _speed);
-        if(Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D))
             transform.position += transform.TransformDirection(Vector3.right * Time.deltaTime * _speed);
-        */
+
     }
 
     void OnKeyboard()

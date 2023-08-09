@@ -1,0 +1,6 @@
+Character	Pig	돼지	1	FALSE	0
+Character	Creeper	크리퍼	1	FALSE	1
+Character	Bee	벌	1	FALSE	2
+Balloon	RedBalloon	빨간풍선	1	FALSE	3
+Balloon	GreenBalloon	초록풍선	1	FALSE	4
+Balloon	BlueBalloon	파란풍선	1	FALSE	5

@@ -4,27 +4,6 @@ using UnityEngine;
 
 public class TestCollision : MonoBehaviour
 {
-    /* 굳이 외우기 보다 그때그때 활용
-    1. 나 OR 상대한테 RigidBody 있어야 한다. (IsKinematic : off)
-    2. 나한테 Collider 있어야 한다. (IsTrigger : off)
-    3. 상대한테 collider 있어야 한다. (IsTrigger : off)
-    */
-    /*
-    private void OnCollisionEnter(Collision other) {
-        Debug.Log($"Collision @ {other.gameObject.name}");
-    }
-    */
-
-    /* 굳이 외우기 보다 그때그때 활용
-    1. 둘 다 Collider 있어야 한다.
-    2. 둘 중 하나는 IsTrigger : On
-    3. 둘 중 하나는 RigidBody 있어야 한다.
-    */
-    /*
-    private void OnTriggerEnter(Collider other) {
-        Debug.Log($"Trigger @ {other.gameObject.name}");
-    }
-    */
 
     void Update()
     {
@@ -66,12 +45,6 @@ public class TestCollision : MonoBehaviour
             }
         */
     }
-
-
-
-
-
-
 
     /* 
     Vector3 look = transform.TransformDirection(Vector3.forward);

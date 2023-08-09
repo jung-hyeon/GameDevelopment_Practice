@@ -15,10 +15,10 @@ public class InputManager
         if (EventSystem.current.IsPointerOverGameObject())
             return;
 
-        if (Input.anyKey == false)
+        if (Input.anyKey == false) // 키보드 입력 체크
             return;
 
-        if (keyAction != null)
+        if (keyAction != null) // keyAction 체크
             keyAction.Invoke();
     }
 }

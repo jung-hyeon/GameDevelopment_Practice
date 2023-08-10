@@ -62,6 +62,10 @@
     <Compile Include="Assets\Scripts\Managers\InputManager.cs" />
     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
     <Compile Include="Assets\Scripts\Utills\Define.cs" />
+    <Compile Include="Assets\Scripts\Scenes\BaseScene.cs" />
+    <Compile Include="Assets\Scripts\Scenes\GameScene.cs" />
+    <Compile Include="Assets\Scripts\Scenes\LoginScene.cs" />
+    <Compile Include="Assets\Scripts\Managers\SceneManagerEx.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Art\UnityChan\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
